@@ -1,6 +1,6 @@
 # slides-summary-after-4-years-of-warsawjs
 
-:clipboard: Slides for TODO
+:clipboard: Slides for `WarsawJS Meetup #49`
 
 ## Preview
 
