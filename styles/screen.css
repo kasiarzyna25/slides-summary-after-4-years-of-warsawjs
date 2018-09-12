@@ -1,0 +1,93 @@
+@charset "utf-8";
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 80px !important;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+h3 {
+    border-bottom: 1px solid #ccc;
+    font-size: 45px !important;
+}
+
+h1 small,
+h2 small,
+h3 small,
+h4 small,
+h5 small,
+h6 small {
+    color: #808080;
+}
+
+a {
+    color: #2380e6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    line-height: 1.6em;
+}
+
+iframe {
+    border: 0;
+}
+
+code {
+    background: #616161;
+    color: #fff;
+    padding: 2px 15px;
+    margin: 3px 0;
+    display: inline-block;
+}
+
+em {
+    display: inline-block;
+    padding: 0 15px;
+    background: #2380e6;
+    font-style: normal;
+    color: #fff;
+}
+
+em a {
+    color: #fff;
+}
+
+mark {
+    display: inline-block;
+    padding: 0 15px;
+    background: #f0db4f; /* JS Yellow */
+}
+
+/* -------------------------------------------------------------------------- */
+
+.remark-slide-content {
+    margin-top: 0;
+    font-size: 26px;
+}
+
+.slim {
+    font-weight: 100;
+}
+
+.text-center {
+    text-align: center;
+}
