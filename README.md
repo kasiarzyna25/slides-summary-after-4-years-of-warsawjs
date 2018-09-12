@@ -4,19 +4,16 @@
 
 ## Preview
 
-TODO
+<http://kasiarzyna25.github.io/slides-summary-after-4-years-of-warsawjs>
 
 ## Organization logo
 
-TODO
+![](./images/warsawjs/logo-white-400x400.jpg)
 
 ## Event in social media
 
-TODO
-
-## Sources
-
-TODO
+* https://www.facebook.com/events/695110090861201/
+* https://www.meetup.com/WarsawJS/events/247245141/
 
 ## Slides engine: [remarkjs](http://remarkjs.com)
 
