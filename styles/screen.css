@@ -82,7 +82,8 @@ samp {
     display: inline-block;
     padding: 0 15px;
     background: #f7302f; /* WarsawJS Red */
-    font-weight: normal;
+    font-weight: inherit;
+    font-family: inherit;
 }
 
 var {
