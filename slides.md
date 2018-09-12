@@ -13,55 +13,22 @@ class: slide-front-page
 
 ---
 
-class: middle
+# Czego się nauczyliśmy?
 
-.box.right[
-![](images/katarzyna-grabowska.jpg)
+.size50[
+
+* Live cooking pizza
+* Warszaty cieszą się dużą popularnością
+* Pierwszy cykl szkoleń: _Testowanie kodu_ (certyfikat)
+
 ]
 
-asdasd
-
 ---
 
-class: middle, slide-invert-colors
+class: middle, center, no-display-twitter-handle
 
-cczarny na biadlym
+![](images/Certyfikat_cyk_v2.jpg)
 
----
-
-class: center, middle
-
-# [Ciasteczko]()
-# _Ciasteczko_
-# <mark>Ciasteczko</mark>
-# <span class="slim">Ciasteczko</span>
-
----
-
-class: center, middle
-
-# HEADER lvl 1
-## HEADER lvl 2
-### HEADER lvl 3
-#### HEADER lvl 4
-##### HEADER lvl 5
-###### HEADER lvl 6
-
----
-
-class: middle
-
-### HEADER lvl 3 <span class="slim">foobar</span>
-
-* foo
-    - bar
-
----
-
-class: middle, slide-fullscreen-blockquote
-
-> Pierwszy krok rzadko bywa do tyłu
-> <small>Loesje</small>
 ---
 
 class: top, center
@@ -72,71 +39,187 @@ Statystyki zeszłego roku!
 .box.center[
 ![](images/growth.png)
 ]
+
 ---
-.size35[
-Youtube:
-* 106 246 wyświetleń
-* 1 454 subskrypcje (+413)
-* Najpopularniejsza prezentacja:
-Jakub Skałecki: Vue.js - udany mix React.js i Angular.js (2 408 wyświetleń)
----
----
-.size80[
-Meetup
-]
-* 3 974 osób w organizacji
-* +1 306 nowych członków
-Twitter:
-648 osób obserwujących (+218)
+
+### <samp>YouTube.com</samp>
+
+.size50[
+
+* _106 246_ wyświetleń
+* <mark>1 454</mark> subskrypcje
+    + wzrost o <var>+413</var>
 
 ]
 
 ---
-class: top, center
 
-.size80[
-Edukaton
+class: center
+
+### Najpopularniejsza prezentacja <samp>2 408 wyświetleń<samp>
+
+*Jakub Skałecki* "Vue.js - udany mix React.js i Angular.js"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SM8eJPw1JeA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+### <samp>Meetup.com</samp>
+
+.size50[
+
+* _3 974_ osób w organizacji (<span class="slim">stan o 16:41</span>)
+    + wzrost o <var>+1 306</var>
+
 ]
-16.02.2018 - 18.02.2018
-.box.center[
-![](images/Edukaton_vertical_black_RGB.png)
+
+.text-center[
+
+## <mark>Dołączajcie, aby pobić granice 4k!</mark>
+
 ]
-.box.left[
+
+---
+
+### <samp>Twitter.com</samp>
+
+.size50[
+
+* <mark>648</mark> osób obserwujących
+    + wzrost o <var>+218</var>
+
+]
+
+.text-center[
+
+## _Tweetujcie z hashtagiem_ `#warsawjs`
+
+]
+
+---
+
+class: middle, center
+
+# Inicjatywy
+
+---
+
+class: center, slide-middle-images, no-display-twitter-handle
+
+### Edukaton <span class="slim">16.02.2018 - 18.02.2018</span>
+
 ![](images/IMG_0691.png)
-]
-.box.right[
+![](images/Edukaton_vertical_black_RGB.png)
 ![](images/IMG_1019.png)
-]
----
-class: top, center
 
-.size80[
-Nowości w WarsawJS
-]
----
-class: middle, slide-invert-colors
-class: top, center
-
-.size80[
-Robimy konferencje!
-]
-
-.box.center[
-![](Confront_vertical_white_RGB.png)
-]
-http://confrontjs.com/
-29 październik 20018
----
-
-
-class: top, right
-
-.size130[
-text
-]
+![](images/KCF_zielone_RGB.png)
+![](images/TechSoup_Europe_logo.png)
 
 ---
 
-class: center, middle
+class: middle, center
 
-# Thanks!
+# 🌟 Nowości w WarsawJS 🌟
+
+![](./images/warsawjs/logo-white-400x400.jpg)
+
+---
+
+class: middle, center, slide-invert-colors
+
+## Robimy konferencje!
+
+![](images/Confront_vertical_white_RGB.png)
+
+29 październik 2018
+
+---
+
+class: slide-invert-colors
+
+# ConFrontJS 2018
+
+.size30[
+* Sprzedaż biletów: <mark>~~Właśnie teraz!~~</mark>
+    + <samp>za kilka dni</samp>
+* Gdzie? _Campus Warsaw_
+* Kiedy? _29 października_
+* Limit miejsc: _150_
+* Uruchomienie "Call for papers": <mark>~~Właśnie teraz!~~</mark>
+    + <samp>za kilka dni</samp>
+
+]
+
+---
+
+class: slide-invert-colors
+
+# ConFrontJS 2018
+
+.size50.text-center[
+
+Zostań sponsorem! 💸
+
+]
+
+.size50[
+
+* Gold 🥇
+* Silver 🥈
+* Bronze 🥉
+
+]
+
+---
+
+class: middle, center
+
+# Nowa strona domowa! 🎊
+
+.size90[
+
+[warsawjs.herokuapp.com](https://warsawjs.herokuapp.com)
+
+]
+
+_(adres tymczasowy, czekamy na DNSy)_
+
+---
+
+class: middle
+
+.text-center[
+
+# Blog
+]
+
+.size50.text-center[
+
+🗣 Poszukujemy blogerów! 🗣
+
+]
+
+* Opublikowaliśmy <var>dziś</var> artykuł Michała!
+* Korzystamy z _Medium.com_
+
+---
+
+# Meetup 👋
+
+.size50[
+
+* Zdobywanie wiedzy
+* Poznanie nowych osób
+* Zdobywanie pracowników
+* Poznawania nowych pracodawców
+* Spróbowania sił jako prelegent
+
+]
+
+---
+
+class: middle
+
+# Dziękuję
+
+## ...i zapraszam na tort! 🎂
