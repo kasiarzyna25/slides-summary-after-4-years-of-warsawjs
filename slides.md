@@ -131,7 +131,7 @@ class: middle, center, slide-invert-colors
 
 ![](images/Confront_vertical_white_RGB.png)
 
-29 październik 2018
+29 października 2018
 
 ---
 
