@@ -7,14 +7,14 @@
 }
 
 .remark-slide-content.slide-front-page .logo {
-    width: 550px;
+    width: 450px;
     float: left;
     text-align: center;
 }
 
 .remark-slide-content.slide-front-page .details {
     float: left;
-    width: calc(100% - 550px);
+    width: calc(100% - 450px);
     border-left: 3px solid #f7302f;
     padding: 0 0 10px 50px;
     margin-top: 5px;
